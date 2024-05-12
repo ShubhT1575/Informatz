@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 35,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "CBS Sports"
+},
+"author": "",
+"title": "Jalen Brunson injury update: Knicks star says he's 'all good' after scare in Game 2 win over Pacers - CBS Sports",
+"description": "Brunson missed a majority of the first half with a sore foot",
+"url": "https://www.cbssports.com/nba/news/jalen-brunson-injury-update-knicks-star-says-hes-all-good-after-scare-in-game-2-win-over-pacers/",
+"urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/09/fa5e003b-6bc0-4b7e-a92a-189aee7f08d0/thumbnail/1200x675/52fd2cd4d09d0f8a127b4ad0838864fa/brunson-getty-3.png",
+"publishedAt": "2024-05-09T04:47:00Z",
+"content": "Jalen Brunson left Game 2 of the second-round series between the New York Knicks and Indiana Pacers with roughly four minutes left in the first quarter with what the Knicks called a sore right foot. … [+2330 chars]"
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "ZEKE MILLER, AAMER MADHANI",
+"title": "Biden says US won't supply weapons for Israel to attack Rafah, in warning to ally - The Associated Press",
+"description": "President Joe Biden says he will not supply offensive weapons that Israel can use to launch an all-out assault on Rafah — the last major Hamas stronghold in Gaza — over concern for the well-being of the more than 1 million civilians sheltering there. Biden, i…",
+"url": "https://apnews.com/article/israel-weapons-shipment-us-eed365ebef0477ba74bf9848cacae4f4",
+"urlToImage": "https://dims.apnews.com/dims4/default/bd29046/2147483647/strip/true/crop/4755x2675+0+248/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F0c%2Fb293211085b18d4e5fcdda223567%2F3fad33c20b6a4aad91dbfcd90b889227",
+"publishedAt": "2024-05-09T04:12:00Z",
+"content": "WASHINGTON (AP) President Joe Biden said Wednesday that he would not supply offensive weapons that Israel could use to launch an all-out assault on Rafah the last major Hamas stronghold in Gaza over … [+8527 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Ben Golliver",
+"title": "Nikola Jokic wins NBA MVP award for the third time - The Washington Post",
+"description": "Nikola Jokic beat out fellow finalists Shai Gilgeous-Alexander and Luka Doncic to become the ninth player in NBA history to win at least three MVP awards.",
+"url": "https://www.washingtonpost.com/sports/2024/05/08/nikola-jokic-nba-mvp/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZKCG5BCZJCYZBKLEDNQHWLPMY.jpg&w=1440",
+"publishedAt": "2024-05-09T03:02:00Z",
+"content": "Denver Nuggets center Nikola Jokic was named the NBAs MVP Wednesday, becoming the ninth player in league history and the first international player to win the award at least three times.\r\nThe Serbian… [+397 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "POLITICO.eu"
+},
+"author": "James Angelos",
+"title": "Attacks on German politicians stir memories of Nazi past - POLITICO Europe",
+"description": "Recent assaults spark national debate over Germany’s increasingly raw political climate, with some seeing echoes of its dark history.",
+"url": "https://www.politico.eu/article/germany-politics-violence-attacks-election/",
+"urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/08/GettyImages-2151055323-1-scaled.jpg",
+"publishedAt": "2024-05-09T03:00:00Z",
+"content": "Last week, Matthias Ecke, a politician with the center-left Social Democratic Party (SPD) and member of European Parliament, was hanging campaign posters for the upcoming European Union election in t… [+1107 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CBS News 8"
+},
+"author": "CBS 8 Staff",
+"title": "SpaceX Falcon 9 rocket launch in Southern California - CBS News 8",
+"description": "The company will launch 20 Starlink satellites from its Falcon 9 rocket that can be seen above Southern California.",
+"url": "https://www.cbs8.com/article/news/local/spacex-falcon-9-preps-rocket-launch-vandenberg-space-force-base/509-369b54d0-2f92-4a46-a5d7-16dd60112ebe",
+"urlToImage": "https://media.cbs8.com/assets/KFMB/images/b894388c-d2ac-4b18-ab57-7a77bb14e8f1/b894388c-d2ac-4b18-ab57-7a77bb14e8f1_1140x641.jpg",
+"publishedAt": "2024-05-09T02:55:00Z",
+"content": "SAN DIEGO SpaceX is about to launch another batch of its Starlink internet satellites into space from Vandenberg Space Force Base in Santa Barbara County on May 9.\r\nThe company will launch 20 Starlin… [+1707 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": "politico",
+"name": "Politico"
+},
+"author": "POLITICO",
+"title": "Trump's political fate likely won't be decided by the courts after all - POLITICO",
+"description": null,
+"url": "https://www.politico.com/news/2024/05/08/trump-four-criminal-cases-one-trial-00156962",
+"urlToImage": null,
+"publishedAt": "2024-05-09T01:13:51Z",
+"content": null
+},
+{
+"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Matt Dixon",
+"title": "Barron Trump to step into the political arena as a Florida delegate at the Republican convention - NBC News",
+"description": "Barron Trump was picked by the Republican Party of Florida as one of the state’s at-large delegates to the Republican National Convention, according to a list of delegates obtained by NBC News.",
+"url": "https://www.nbcnews.com/politics/donald-trump/barron-trump-florida-delegate-republican-national-convention-rcna151388",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240508-barron-trump-2022-ac-821p-ccce7c.jpg",
+"publishedAt": "2024-05-09T00:46:00Z",
+"content": "TALLAHASSEE, Fla. It will soon be Barron Trumps time to step into the political spotlight. \r\nTrump, former President Donald Trumps youngest child, who will graduate from high school next week and has… [+2934 chars]"
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "MAURICIO SAVARESE, GABRIELA SÁ PESSOA",
+"title": "Southern Brazil is still reeling from massive flooding as it faces risk from new storms - The Associated Press",
+"description": "Authorities in southern Brazil are rushing to rescue survivors of massive flooding that has killed at least 100 people, but some residents are refusing to leave belongings behind while others are returning to evacuated homes despite the risk of new storms. Au…",
+"url": "https://apnews.com/article/brazil-porto-alegre-floods-rio-grande-do-sul-6daa5788e5cf6ec9a94cb3ea30fa6b18",
+"urlToImage": "https://dims.apnews.com/dims4/default/1f02a00/2147483647/strip/true/crop/3855x2168+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F11%2Fb1ecf2bbe1096a1d4259a7d7721d%2Ffe640b8da1454137bf060f9fe5d4d92c",
+"publishedAt": "2024-05-09T00:09:00Z",
+"content": "PORTO ALEGRE, Brazil (AP) As major floods engulfed entire cities in the northern part of the Brazils Rio Grande do Sul state last week, meteorologist Estael Sias knew the water would drain into capit… [+6909 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Managing Madrid"
+},
+"author": "Sam Leveridge",
+"title": "Ancelotti: \"There's one captain of the Real Madrid ship, Florentino Pérez\" - Managing Madrid",
+"description": "The Real Madrid coach spoke after beating Bayern Munich",
+"url": "https://www.managingmadrid.com/2024/5/9/24151926/ancelotti-theres-one-captain-of-the-real-madrid-ship-florentino-perez-press-conference-bayern-munich",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/SbdCnRxxKhuclibNrog7Tjz35zA=/0x432:6028x3588/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25439421/2152094349.jpg",
+"publishedAt": "2024-05-09T00:08:37Z",
+"content": "Real Madrid coach Carlo Ancelotti spoke after the epic UEFA Champions League semi-final second leg at the Estadio Santiago Bernabéu against Bayern Munich which ended in a 2-1 victory courtesy of two … [+3032 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": null,
+"title": "Natalie Elphicke: Tory MP defects to Labour with attack on Rishi Sunak - BBC.com",
+"description": "The MP for Dover says the Conservatives \"have become a byword for incompetence and division\".",
+"url": "https://www.bbc.com/news/uk-politics-68976500",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8456/production/_133287833_starmerelphickepamedia.jpg",
+"publishedAt": "2024-05-08T23:32:15Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Women's Health"
+},
+"author": "Sydney Wingfield",
+"title": "New 'FLiRT' COVID-19 Variants Are Responsible For 25% Of Infections - AOL",
+"description": "New 'FLiRT' COVID-19 variants are Spreading: All About Symptoms, Treatment, And How To Protect YourselfThey are now the dominant strain in the U.S.",
+"url": "https://www.womenshealthmag.com/health/a60731685/covid-variants-flirt-symptoms/",
+"urlToImage": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1666806081.jpg?crop=1xw:0.9487179487179487xh;center,top&resize=1200:*",
+"publishedAt": "2024-05-08T23:22:03Z",
+"content": "With warm weather finally within reach, a new set of \r\nCOVID-19 variants, given the nickname FLiRT, has been found in wastewater surveillance, the Centers for Disease Control and Prevention(CDC) has … [+3287 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Ben Brasch",
+"title": "Steve Albini, Nirvana and The Pixies music producer, dies at 61 - The Washington Post",
+"description": "Steve Albini, the Chicago alt-rock producer who worked with some of the greatest American rock acts, has died, his studio confirmed.",
+"url": "https://www.washingtonpost.com/entertainment/music/2024/05/08/steve-albini-death-nirvana/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBA2GWKF3VCNXZILB34B5VMCNQ.jpg&w=1440",
+"publishedAt": "2024-05-08T23:22:01Z",
+"content": "Steve Albini, a Chicago-based rock producer who allied himself with Nirvana and against the corporatized music industry, has died.\r\nAlbini died of a heart attack, according to Taylor Hales, the manag… [+246 chars]"
+},
+{
+"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": "Ashley Hume",
+"title": "Prince Harry celebrates Invictus Games at UK event while royal family attends garden party just miles away - Fox News",
+"description": "Prince Harry marked the Invictus Games' 10th anniversary at a church service on Wednesday while King Charles and other royal family members attended a garden party two miles away.",
+"url": "https://www.foxnews.com/entertainment/prince-harry-celebrates-invictus-games-uk-event-royal-family-attends-garden-party-miles-away",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/charlescamilla_harry.jpg",
+"publishedAt": "2024-05-08T23:20:00Z",
+"content": "Prince Harry celebrated the 10th anniversary of the Invictus Games at an event in London, but the royal family was not in attendance.\r\nOn Wednesday, the 39-year-old Duke of Sussex marked the tourname… [+3791 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": null,
+"title": "Marjorie Taylor Greene fails to remove House Speaker - BBC.com",
+"description": "The House killed the far-right Republican's motion to remove Mike Johnson over support for Ukraine aid.",
+"url": "https://www.bbc.com/news/world-middle-east-68981084",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1318/production/_133288840_gettyimages-2151394233.jpg",
+"publishedAt": "2024-05-08T22:31:23Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Detroit Free Press"
+},
+"author": "Frank Witsil, Kylie Martin, Junfu Han",
+"title": "Michigan tornadoes damage areas in Portage, Branch and St. Joseph - Detroit Free Press",
+"description": "For the first time in Michigan, the National Weather Service issued a tornado emergency, as the storms hit the Kalamazoo area and state's west side.",
+"url": "https://www.freep.com/story/news/local/michigan/2024/05/08/tornadoes-tear-through-midwest-with-at-least-2-ripping-west-michigan/73610750007/",
+"urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2024/05/08/PDTF/73618630007-05082024-pavilionestates-2.jpg?crop=2399,1349,x0,y0&width=2399&height=1349&format=pjpg&auto=webp",
+"publishedAt": "2024-05-08T22:30:00Z",
+"content": "A day after thunderstorms and tornadoes tore through western Michigan, leaving a trail of wreckage that weather and emergency officials began evaluating Wednesday in the light of day, community leade… [+9154 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Madeline Holcombe",
+"title": "Ultraprocessed foods linked with early death, according to 30 years of research - CNN",
+"description": "Studies have shown that ultraprocessed foods can have a detrimental impact on health. But 30 years of research show they don’t all have the same impact.",
+"url": "https://www.cnn.com/2024/05/08/health/ultraprocessed-foods-death-study-wellness/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-689101168.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2024-05-08T22:30:00Z",
+"content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nEating ultraprocessed foods is … [+4060 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Umar Shakir",
+"title": "China's Chang'e 6 Moon probe has a mysterious guest on board - The Verge",
+"description": "China’s Chang’e 6 mission to the far side of the Moon has a secret rover attached to the lander.",
+"url": "https://www.theverge.com/2024/5/8/24152190/china-chang-e-6-moon-probe-rover-spotted",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/T0uIEtdC6ZklIbPG3UcolNPPec8=/0x0:1080x720/1200x628/filters:focal(540x360:541x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25439282/640.jpg",
+"publishedAt": "2024-05-08T22:15:49Z",
+"content": "Chinas Change 6 Moon probe has a mysterious guest on board\r\nChinas Change 6 Moon probe has a mysterious guest on board\r\n / Chinas lunar lander, bound for the far side of the Moon to collect samples, … [+1506 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Space.com"
+},
+"author": "Mike Wall",
+"title": "Boeing's Starliner rolled off launch pad to replace 'buzzing' rocket valve (photo) - Space.com",
+"description": "Starliner's first-ever astronaut launch is now targeted for May 17.",
+"url": "https://www.space.com/starliner-rolled-off-launch-pad-replace-rocket-valve",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/Vgm7mRorHQSZMUu3JnxPJW-1200-80.jpg",
+"publishedAt": "2024-05-08T22:00:26Z",
+"content": "Boeing's Starliner capsule has left the launch pad.\r\nStarliner and its rocket ride, a United Launch Alliance (ULA) Atlas V, rolled off the pad at Florida's Cape Canaveral Space Force Station today (M… [+2476 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "OregonLive"
+},
+"author": "Aaron Fentress | The Oregonian/OregonLive",
+"title": "Trail Blazers coach Chauncey Billups potentially coveted by other teams - OregonLive",
+"description": "According to a report, there are NBA teams potentially interested in hiring Billups should he and the Blazers part ways.",
+"url": "https://www.oregonlive.com/blazers/2024/05/trail-blazers-coach-chauncey-billups-potentially-coveted-by-other-teams.html",
+"urlToImage": "https://www.oregonlive.com/resizer/v2/A7HAJY7JXFAJPMHIOU72T7MKCA.JPG?auth=48a218b261d38893b6c8e860c031d3176c8c414c33c818ab4758da48d40fd0dd&width=1280&quality=90",
+"publishedAt": "2024-05-08T21:49:00Z",
+"content": "It appears Portland Trail Blazers coach Chauncey Billups could have options should he and the franchise part ways this offseason despite his record.\r\nChris Mannix of Sports Illustrated reported Wedne… [+2635 chars]"
+}
+]
+}
