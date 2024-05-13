@@ -5,12 +5,18 @@ import NewsCard from "./NewsCard";
 const Home = () => {
   const [news, setNews] = useState([]);
   const [page, setPage] = useState(1);
+  const [array,setArray] = useState(["business","entertainment","general","health","science","sports","technology"])
+  const [randomIndex,setRandomIndex] = useState(null)
   const [lastLoading, setLastLoading] = useState(false);
   let count = 0;
 
+
   const apiCall = async () => {
+    setLastLoading(false)
+    const index = Math.floor(Math.random() * array.length);
+    setRandomIndex(index);
     try {
-      const url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=2c201af4b504474d9566faf0cb9d0ce6&page=${page}&pageSize=10`;
+      const url = `https://saurav.tech/NewsAPI/top-headlines/category/${array[randomIndex]}/in.json`;
 
       const response = await fetch(url);
       const data = await response.json();
@@ -18,9 +24,8 @@ const Home = () => {
         setLastLoading(true);
         return;
       } else {
-        setLastLoading(false)
         setNews((prev) => [...prev, ...data.articles]);
-        console.log(news);
+        // console.log(news);
       }
     } catch (error) {
       console.log(error);
@@ -29,8 +34,7 @@ const Home = () => {
 
   useEffect(() => {
     apiCall();
-       // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [page]);
+  }, [randomIndex]);
 
   const handleInfiniteScroll = async () => {
     try {
@@ -38,7 +42,8 @@ const Home = () => {
         window.innerHeight + document.documentElement.scrollTop + 1 >=
         document.documentElement.scrollHeight
       ) {
-        setPage((prev) => prev + 1);
+        // setPage((prev) => prev + 1);
+        apiCall();
       }
     } catch (error) {
       console.log(error);
